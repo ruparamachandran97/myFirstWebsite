@@ -1,0 +1,76 @@
+body{
+  background-color: #beebe9;
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+}
+hr{
+border-style: dotted none none none;
+border-top: 4px dotted #df5e88;
+width: 3%;
+}
+a{
+  color: #2fc5cc;
+}
+.books-div{
+  background-color: #ffe3ed;
+  display: inline-block;
+  height: 100%;
+  width:100%;
+}
+
+.skills-div{
+  background-color: #fffdf9;
+  display: inline-block;
+  height: 100%;
+  width:100%;
+}
+
+.contact-div{
+  background-color: #2fc5cc;
+  display: inline-block;
+  height: 100%;
+  width:100%;
+}
+.contactStart-div{
+  width: 100%;
+  height: 100%;
+  background-color: #ffe3ed;
+font-family: 'Merriweather', serif;
+
+}
+
+#contact-there{
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+}
+
+.form-class
+{
+  background-color: #fffdf9 ;
+}
+.hobby-div
+{
+  background-color: #ffe3ed;
+  height: 100%;
+font-family: 'Butterfly Kids', cursive;
+font-size: 2rem;
+font-weight: bold;
+  margin: 0;
+}
+
+
+.hobbyPic
+{
+height:200px;
+width:340px;
+display: inline-block;
+border: none;
+margin: 70px;
+margin-left: 50px;
+}
+
+
+.hobbyStart{
+  height:200px;
+  width:390px;
+}
